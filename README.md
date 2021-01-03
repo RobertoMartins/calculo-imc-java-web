@@ -1,6 +1,6 @@
 # Calculo de IMC Web
 
-Projeto desenvolvido para a disciplina de Programação Web II. O objetivo desse projeto é realizar o calculo do IMC com base nos dados informados pelo usuário no formulário, usando Java de três formas diferentes.
+Projeto desenvolvido para a disciplina de Programação para Web II. O objetivo desse projeto é realizar o calculo do IMC com base nos dados informados pelo usuário no formulário, usando Java de três formas diferentes.
 <ol>
 <li>HTML e Servlet</li>
 <li>JSP e Expression Language</li>
