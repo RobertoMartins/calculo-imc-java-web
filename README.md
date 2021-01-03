@@ -16,5 +16,5 @@ Projeto desenvolvido para a disciplina de Programação Web II. O objetivo desse p
 ![TomCat](https://img.shields.io/badge/TomCat%20-%23778899.svg?&logo=tomcat&logoColor=white)
 
 ## ScreenShots
- <img src="WebContent/images/screenShot.png">
- <img src="WebContent/images/screenShot2.png">
+ <img src="screenshots/screenShot.png">
+ <img src="screenshots/screenShot2.png">
